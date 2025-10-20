@@ -1,0 +1,5 @@
+x= float (input('What x to find the cube root of? '))
+g = float (input('What guess to start with? '))
+print(' Current estimate cubed = ', g**3)
+next_g = g - ((g**3 - x)/ (3*g**2))
+print("Next guess to try =", next_g)
