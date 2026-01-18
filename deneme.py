@@ -1,0 +1,2 @@
+from bisectionsearch import bisection_root
+bisection_root(6859)

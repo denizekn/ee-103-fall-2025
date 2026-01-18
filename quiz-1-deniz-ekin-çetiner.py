@@ -1,4 +1,4 @@
-first_name = "Deniz Ekin"
+first_name = "Denizr. " \
 last_name = "Çetiner"
 
 first_name_length = len(first_name)
